@@ -1,0 +1,27 @@
+{
+  "name": "posthtml-katex",
+  "description": "PostHTML plugin that prerenders inline math expressions by KaTeX",
+  "version": "1.0.0",
+  "author": "sei0o",
+  "bugs": "https://github.com/sei0o/posthtml-katex",
+  "dependencies": {
+    "katex": "^0.10.2",
+    "posthtml": "^0.9.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/sei0o/posthtml-katex",
+  "keywords": [
+    "html",
+    "posthtml",
+    "posthtml-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": "sei0o/posthtml-katex",
+  "scripts": {
+  }
+}
