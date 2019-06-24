@@ -1,1 +1,5 @@
 == posthtml-katex
+
+===== Acknowledgement
+
+thanks to christianp, the author of https://github.com/christianp/asciimath2tex[asciimath2tex] (a tweaked version is used so that it won't use the `export` syntax - check out `lib/asciimath2tex.js`).
